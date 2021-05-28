@@ -1,0 +1,70 @@
+Initializing daemon...
+Swarm listening on /ip4/10.0.42.204/tcp/4001
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /p2p-circuit/ipfs/QmaCnS81hbxjJLAMWCubB9KxRCNjaomcU5Thuw75LsLUbc
+Swarm announcing /ip4/10.0.42.204/tcp/4001
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip6/::1/tcp/4001
+API server listening on /ip4/127.0.0.1/tcp/5001
+Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8080
+Daemon is ready
+[0;37m18:19:21.676 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:24:21.679 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:29:21.682 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:34:21.685 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:39:21.688 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:44:21.691 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:49:21.694 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:54:21.697 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m18:59:21.699 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:04:21.702 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:09:21.705 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:14:21.708 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:19:21.711 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:24:21.714 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:29:21.717 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:34:21.720 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:39:21.723 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:44:21.726 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:49:21.729 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:54:21.732 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m19:59:21.735 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:04:21.738 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:09:21.741 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:14:21.744 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:19:21.747 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:24:21.750 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:29:21.753 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:34:21.756 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:39:21.759 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:44:21.762 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:49:21.765 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:54:21.768 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m20:59:21.771 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:04:21.774 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:09:21.777 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:14:21.780 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:19:21.783 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:24:21.786 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:29:21.789 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:34:21.792 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:39:21.795 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:44:21.798 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:49:21.801 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:54:21.804 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m21:59:21.807 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:04:21.810 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:09:21.813 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:14:21.816 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:19:21.819 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:24:21.822 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:29:21.825 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:34:21.828 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:39:21.831 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:44:21.834 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:49:21.837 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+[0;37m22:54:21.840 [31mERROR [0;34mipns-repub: [0mRepublisher failed to republish: failed to find any peer in table [0;37mcore.go:517[0m
+
+Received interrupt signal, shutting down...
+(Hit ctrl-c again to force-shutdown the daemon.)
